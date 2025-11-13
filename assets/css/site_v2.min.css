@@ -1222,3 +1222,4 @@ body.contact-page .contact-photo img{
   }
 }
 img.center-nudge{object-position:center 0%!important;}@media (max-width:600px){img.calm-nudge{object-position:center 40%!important;}}
+@media(max-width:600px){img.calm-nudge{object-position:center 60%!important;}}
