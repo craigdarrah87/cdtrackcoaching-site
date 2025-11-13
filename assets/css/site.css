@@ -552,3 +552,14 @@ form button[type="submit"]:hover,
   }
 }
 
+
+
+/* SEO-only headings */
+.seo-hidden {
+  position: absolute;
+  left: -9999px;
+  top: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
